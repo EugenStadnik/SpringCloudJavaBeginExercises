@@ -8,3 +8,4 @@ where
 
 It works like that when there are no aliases or additional main url path configured in functional service
 
+To invoke shortened URL path reference to value determined in spring.cloud.gateway.routes[x].predicates[0] properti of gateway application
